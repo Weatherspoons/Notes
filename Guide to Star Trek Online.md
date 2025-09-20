@@ -185,6 +185,9 @@ I suggest you use attack pattern beta. Shield resists you can't debuff, shpen wi
 
 You want to kill your target as fast as possible, so any dmg that bypasses shields is good. Lorca console may be of use too.
 
+You are also advised to use dirty tricks. For example carrier wave shield hacking trait will drop shields for 5 sec on execution of any Intel ability.
+Well guess what, theres an Intel ability called subspace beacon with 5sec cd.
+
 Regarding cptn space skills, you need to calc how much does each of the 3 slots give you. Even if it sounds logical to put 3 points into shpen,
 I advise against it, since the gain is small. Always look for what gives most where, then stack it there. 
 For example, ships weapons are ideal for crtd or dmg mods.
